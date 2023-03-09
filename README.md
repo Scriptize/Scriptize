@@ -14,5 +14,4 @@ If you'd like to connect with me, feel free to reach out on [LinkedIn](https://w
 
 
 [![Scriptize's GitHub stats](https://github-readme-stats.vercel.app/api?username=scriptize&show_icons=true&theme=dark)](https://github.com/scriptize/github-readme-stats)
-
-
+![Visitor Count](https://profile-counter.glitch.me/scriptize/count.svg)
