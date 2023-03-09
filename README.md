@@ -1,6 +1,6 @@
 ### What's up ✌🏿
 
-My name is Darren and I'm a Computer Science major at New York University with a passion for backend software development and data science. I have experience with various programming languages and frameworks such as Python, SQL, HTML, CSS, Flask, and [Hikari](https://github.com/hikari-py/hikari), as well as working with Microsoft Azure's cloud tools. I'm currently exploring some learning models for data analysis on my [current project](https://github.com/Scriptize/Cluster_Analysis_Project) and some Javascript on the side to start building fullstack web applications
+My name is Darren and I'm a Computer Science major at New York University with a passion for backend software development and data science. I have experience with various programming languages and frameworks such as Python, SQL, HTML, CSS, Flask, and [Hikari](https://github.com/hikari-py/hikari), as well as working with Microsoft Azure's cloud tools. I'm currently exploring some learning models for data analysis on my [current project](https://github.com/Scriptize/Cluster_Analysis_Project) and some Javascript on the side to start building fullstack web applications.
 
 I've had the opportunity to work with industry-leading firms such as [Stratacy Consulting Group](https://stratacy.com/) and [Balyasny Asset Management](https://www.bamfunds.com/), where I gained valuable experience in financial research and software engineering, specifically compliance and trading technologies.
 
