@@ -10,7 +10,7 @@ One of my goals as an engineer is to develop and innovate technologies that keep
 
 By working towards this goal, I hope to contribute to a world where communities are empowered to solve problems and create positive change, and where networking is not just a means of advancing one's career, but a way of building meaningful relationships and supporting each other's growth.
 
-If you'd like to connect with me, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/darrenblaylock/) or Discord(Godlyize#1000).
+If you'd like to connect with me, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/darrenblaylock/) or Discord(godlyize).
 
 
 [![Scriptize's GitHub stats](https://github-readme-stats.vercel.app/api?username=scriptize&show_icons=true&theme=dark)](https://github.com/scriptize/github-readme-stats)
