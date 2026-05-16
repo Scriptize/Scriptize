@@ -1,6 +1,6 @@
 ### What's up ✌🏿
 
-My name is Darren and I'm a Computer Science major at New York University intrested in backend software development.
+My name is Darren and I'm a Computer Science major at New York University intrested in backend and systems software development.
 
 Currently I'm working on a [limit orderbook](https://github.com/Scriptize/HFTS) in Rust! 🦀 
 
